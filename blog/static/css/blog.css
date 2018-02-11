@@ -46,3 +46,9 @@ h1,	h2,	h3,	h4	{
 .post	h1	a,	.post	h1	a:visited	{
   color:	#000000;
 }
+.foot {
+    margin: 0px auto;
+    padding-bottom: 60px;
+    width: 850px;
+    text-align: center;
+}
